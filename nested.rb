@@ -38,7 +38,7 @@ def alan_kay_is_known_for
         :languages => ["C"]
       }
     }
-{:known_for => "Object Orientation"}
+{ :known_for => "Object Orientation" }
 end
 
 def dennis_ritchies_language
